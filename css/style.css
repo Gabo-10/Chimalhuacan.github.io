@@ -1629,7 +1629,7 @@ pre {
     -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
     box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); }
   .form-control::-webkit-input-placeholder {
-    color: #6c757d;
+    color: #6c7d72;
     opacity: 1; }
   .form-control:-ms-input-placeholder {
     color: #6c757d;
@@ -8210,7 +8210,7 @@ h1, h2, h3, h4, h5,
     padding-bottom: .7rem;
     padding-left: 3px;
     padding-right: 15px;
-    color: #fff;
+    color: #b1b493;
     font-weight: 600;
     opacity: 1 !important;
     text-transform: uppercase; }
