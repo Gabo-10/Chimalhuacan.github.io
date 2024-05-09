@@ -17,7 +17,7 @@
   --cyan: #17a2b8;
   --white: #fff;
   --gray: #6c757d;
-  --gray-dark: #343a40;
+  --gray-dark: #0180ff;
   --primary: #007bff;
   --secondary: #6c757d;
   --success: #28a745;
@@ -8738,7 +8738,7 @@ h1, h2, h3, h4, h5,
   border-radius: 5px;
   -webkit-box-shadow: 0px 24px 36px -11px rgba(0, 0, 0, 0.09);
   -moz-box-shadow: 0px 24px 36px -11px rgba(0, 0, 0, 0.09);
-  box-shadow: 0px 24px 36px -11px rgba(0, 0, 0, 0.09); }
+  box-shadow: 0px 24px 36px -11px rgba(0, 0, 0); }
   .btn:hover, .btn:active, .btn:focus {
     outline: none; }
   .btn.btn-primary {
@@ -8748,10 +8748,11 @@ h1, h2, h3, h4, h5,
     .btn.btn-primary:hover {
       border: 1px solid #b1b493;
       color: #b1b493; }
+      /*------------------------------boton de inicio ver video-------------*/
     .btn.btn-primary.btn-outline-primary {
-      border: 2px solid #b1b493 !important;
-      background: transparent !important;
-      color: #b1b493 !important; }
+      border: 2px solid #41191E !important;
+      background: #41191E !important;
+      color: #fff !important; }
       .btn.btn-primary.btn-outline-primary:hover {
         border: 2px solid transparent !important;
         background: #b1b493 !important;
